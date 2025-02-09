@@ -50,3 +50,4 @@ async def mines(interaction: discord.Interaction, tile_amt: int, round_id : str)
         await interaction.response.send_message(embed=em)
 
 client.run('MTMzODIwNTkyMTQ5MDM3NDc2OA.GIpyVh.rlEoJD4b4SSNxLnz2CwlIyAMRxYglBFB8CLXYY')
+pip instal discord
