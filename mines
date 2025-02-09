@@ -49,5 +49,5 @@ async def mines(interaction: discord.Interaction, tile_amt: int, round_id : str)
         em.add_field(name='Error', value="Invalid round id")
         await interaction.response.send_message(embed=em)
 
-client.run('https://discord.com/api/webhooks/1338196695929978921/MXwD9OUajj45B9BI6mfb5zim7gNXOnpeei_Q86YpEl3Nep9GOTLsImfIg560ODgUy82t')
+client.run('MTMzODIwNTkyMTQ5MDM3NDc2OA.GIpyVh.rlEoJD4b4SSNxLnz2CwlIyAMRxYglBFB8CLXYY')
 pip install discord
